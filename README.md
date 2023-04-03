@@ -1,6 +1,9 @@
 ### Hi there 👋 my name is Aman Vahora
 I am a software engineer
 
+Check out my LinkedIn profile
+https://www.linkedin.com/in/aman-vahora/
+
 <!--
 **amanva/amanva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
